@@ -1,6 +1,4 @@
 import React from 'react';
-
-import React from 'react';
 import './Pokecard.css';
 
 const POKE_API = 'https://raw.githubusercontent.com/' +
